@@ -11,4 +11,8 @@ public class FirstClass {
     public void sss(){
         System.out.println(123);
     }
+
+    public void aaa(){
+        System.out.println("sdasda");
+    }
 }
