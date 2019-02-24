@@ -7,4 +7,12 @@ public class FirstClass {
         System.out.println("sssss");
         System.out.println("sssss");
     }
+
+    public void sss(){
+        System.out.println(123);
+    }
+
+    public void aaa(){
+        System.out.println("sdasda");
+    }
 }
